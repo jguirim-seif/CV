@@ -246,6 +246,36 @@ ul{
     font-weight: normal ;
 }
 
+
+.experience-block {
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px;
+    background: #e9ecef;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+}
+.experience-block h5 {
+    color: #888;
+    font-size: 15px;
+    margin-bottom:  15px;
+
+}
+.experience-block span {
+    font-size: 35px;
+}
+.experience-block h3{
+    color: #d82c2e;
+    margin: 15px 0px;
+
+}
+.experience-block h4{
+    margin-bottom: 20px;
+    font-weight: normal ;
+}
+
 /*Portfolio*/
 #portfolio {
     background-color: #d82c2e;
